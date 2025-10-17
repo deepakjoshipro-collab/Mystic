@@ -1,0 +1,17 @@
+{
+  "name": "discord-oauth2-bot-v14",
+  "version": "1.0.0",
+  "description": "An improved and updated Discord OAuth2 bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "body-parser": "^1.20.2",
+    "chalk": "^4.1.2",
+    "discord.js": "^14.15.2",
+    "express": "^4.19.2",
+    "quick.db": "^7.1.3"
+  }
+}
